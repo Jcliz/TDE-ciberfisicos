@@ -1,5 +1,5 @@
 .data
-ano:    .word 2003, 2002, 2004
+ano:    .word 2003, 2004, 2005
 equipe: .word 3
 txt:    .asciiz "Soma: "
 
